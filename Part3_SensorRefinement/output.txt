@@ -1,0 +1,13 @@
+Initial Model Error: 42.1159 px
+Initial Check Error: 36.2055 px
+
+Initial EOP Parameters:
+ Xs=292264, Ys=4.14743e+06, Zs=167.205
+ omega=-0.0912478, phi=0.0240377, kappa=1.04169
+
+Refined Model Error: 3.81676 px
+Refined Check Error: 4.63533 px
+
+Refined EOP Parameters:
+ Xs=292263, Ys=4.14743e+06, Zs=167.86
+ omega=-0.079569, phi=0.0140767, kappa=1.04177
